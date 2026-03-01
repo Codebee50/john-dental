@@ -41,7 +41,7 @@ const cardVariants = {
 
 export default function CoreValues() {
     return (
-        <section className="min-h-screen bg-white flex items-center py-10">
+        <section className=" bg-white flex items-center py-20">
             <div className=" section-con padding-x w-full max-md:flex max-md:flex-col-reverse md:grid lg:grid-cols-2 gap-16 items-center">
                 {/* Left: Value Cards Grid */}
                 <div className="grid grid-cols-1 sm:grid-cols-2 gap-4">

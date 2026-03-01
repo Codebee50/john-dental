@@ -97,7 +97,7 @@ export default function ServicesSection() {
     };
 
     return (
-        <section className="bg-blue-50 min-h-screen py-16 w-full">
+        <section className="bg-blue-50  py-16 w-full">
             <div className="section-con padding-x">
                 {/* Badge */}
                 <motion.div
